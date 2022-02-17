@@ -1,0 +1,102 @@
+img {
+  width: 250px;
+  border-radius: 100px;
+  border: #2962FF groove 20px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  border: #18FFFF solid 10px;
+  
+  border-radius: 50px;
+}
+#page {
+  color: #2962FF;
+  font-family: Montserrat, sans-serif;
+}
+body {
+background: rgb(126,203,230);
+background: radial-gradient(circle, rgba(126,203,230,1) 23%, rgba(215,164,240,1) 68%);
+  text-align:center;
+}
+html {
+background: rgb(126,203,230);
+background: radial-gradient(circle, rgba(126,203,230,1) 23%, rgba(215,164,240,1) 68%);
+ 
+}
+#Why {
+  color: #9f62f5;
+  font-size: 20px;
+  obesity: 100;
+  text-align: center;
+  border: #5E35B1 solid 2px;
+  font-family: Raleway, sans-serif;
+  box-shadow: 1 1 38 white;
+}
+body{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+.profile{
+    width:175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    
+}
+#welcome{
+    position: absolute;
+    height: 800px;
+    color: aquamarine;
+    left:0;
+    right:0;
+    bottom:0;
+    top:0;
+    display: table;
+    width: 100%;
+    height:auto;
+    z-index: 9;
+    
+}
+h1{
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+#name{
+    font-size: 30px;
+    font-family:cursive
+    line-height:1.2;
+    
+}
+h1{
+    font-size: 30px;
+    font-family:fantasy
+    line-height:1.2;
+}
+#bio{
+    padding: 50px;
+    text-align: center;
+    
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+p{
+    margin: 25px auto;
+    font-size: 17px;
+    line-height:1.3;
+    max-width: 450px;
+    
+}
+.parallax-inner{
+    display: table-cell;
+    position:relative;
+    text-align: center;
+    vertical-align: middle;
+    
+}
